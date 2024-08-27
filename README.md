@@ -3,9 +3,9 @@ Boas vindas! Este é seu caderno virtual. Aqui você deverá guardar todos os co
 
 
 ## Conteúdo Técnico
-String: No java script os strings são sequências alfanúmericas (letras, números e simbolos)
-Number: Representam números de pontos flutuantes
-Swich case: É oque permite tomar as decisões baseadas nos multiplos valores, é bem parecido com o 'if' e 'else'
+- String: No java script os strings são sequências alfanúmericas (letras, números e simbolos)
+- Number: Representam números de pontos flutuantes
+- Swich case: É oque permite tomar as decisões baseadas nos multiplos valores, é bem parecido com o 'if' e 'else'
 
 ``` JS
 let carName1 = "Volvo XC60";  // Double quotes
